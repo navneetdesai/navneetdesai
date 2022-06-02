@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Navneet Desai
 
-<!--
-**navneetdesai/navneetdesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I am currently a Computer Science graduate student at [Rochester Institute of Technology](https://www.rit.edu/study/computer-science-ms)
+- I am currently learning about cloud computing; specifically AWS
+- 💬 Ask me about Python | Philosphy | Psychology | Chess
+- 🧔🏻 Pronouns: He / Him
+- 📧 How to reach me: <a href="mailto:navneetdesai44@gmail.com">navneetdesai44@gmail.com</a>
 
-Here are some ideas to get you started:
+### &nbsp;GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://github.com/navneetdesai">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=navneetdesai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=navneetdesai&layout=compact&langs_count=8&theme=dracula"/>
+ </a>
+</p>
