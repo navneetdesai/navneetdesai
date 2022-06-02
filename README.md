@@ -10,8 +10,8 @@
 
 <p align="left">
 <a href="https://github.com/navneetdesai">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=navneetdesai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=navneetdesai&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=navneetdesai&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=navneetdesai&layout=compact&langs_count=8&theme=apprentice"/>
  </a>
 </p>
