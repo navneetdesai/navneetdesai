@@ -1,7 +1,8 @@
-### Hi there 👋 I'm Navneet Desai
+### Hi there 👋 I'm Navneet Desai 🧔🏻‍♂️ 
 
 - 🎓 I am currently a Computer Science graduate student at [Rochester Institute of Technology](https://www.rit.edu/study/computer-science-ms)
-- ☁️ I am currently learning about cloud computing; specifically AWS
+- ☁️ I am currently learning about cloud computing; specifically AWS 
+- También estoy interesado en aprender español
 - 💬 Ask me about Python | Philosphy | Psychology | Chess
 - 🧔🏻 Pronouns: He / Him
 - 📧 How to reach me: <a href="mailto:navneetdesai44@gmail.com">navneetdesai44@gmail.com</a>
