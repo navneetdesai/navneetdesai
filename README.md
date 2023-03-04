@@ -16,17 +16,18 @@
 </p>
 
 ### 🛠 &nbsp;Tech Stack
-![Python](https://img.shields.io/badge/-Python-272822?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-272822?style=flat&logo=openjdk)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-272822?style=flat&logo=javascript)&nbsp;
-![Postgres](https://img.shields.io/badge/-Postgres-272822?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-272822?style=flat&logo=MongoDB)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-272822?style=flat&logo=mysql)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-272822?style=flat&logo=linux)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-272822?style=flat&logo=amazon-aws)&nbsp;
-![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-272822?style=flat&logo=raspberry%20pi)\
-![HTML5](https://img.shields.io/badge/-HTML5-272822?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-272822?style=flat&logo=css3)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-316192?style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=MongoDB&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)&nbsp;
+![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry%20pi)\
+![HTML5](https://img.shields.io/badge/-HTML5-239120?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-239120?style=flat&logo=css3)&nbsp;
 
 ### 🔗 Connect with me
 <p align="left">
