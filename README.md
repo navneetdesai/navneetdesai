@@ -15,6 +15,19 @@
  </a>
 </p>
 
+### 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-272822?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-272822?style=flat&logo=openjdk)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-272822?style=flat&logo=javascript)&nbsp;
+![Postgres](https://img.shields.io/badge/-Postgres-272822?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-272822?style=flat&logo=MongoDB)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-272822?style=flat&logo=mysql)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-272822?style=flat&logo=linux)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-272822?style=flat&logo=amazon-aws)&nbsp;
+![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-272822?style=flat&logo=raspberry%20pi)\
+![HTML5](https://img.shields.io/badge/-HTML5-272822?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-272822?style=flat&logo=css3)&nbsp;
+
 ### 🔗 Connect with me
 <p align="left">
 <a href="mailto:navneetdesai44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
