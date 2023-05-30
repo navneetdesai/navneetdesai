@@ -37,3 +37,5 @@
 <a href="https://stackoverflow.com/users/9947357/navneet-desai"><img src="https://img.shields.io/badge/-@navneetdesai44-white?style=flat&logo=stackoverflow&logoColor=orange"/></a>
 <a href="https://www.duolingo.com/profile/NavneetDes2"><img src="https://img.shields.io/badge/-Navneet Desai-black?style=flat&logo=duolingo&logoColor=green"/></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=navneetdesai&style=flat-square)
