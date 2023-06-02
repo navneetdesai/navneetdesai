@@ -33,7 +33,6 @@
 <p align="left">
 <a href="mailto:navneetdesai44@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/navneet-desai/"><img src="https://img.shields.io/badge/-Navneet%20Desai-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/navneetdesai44/"><img src="https://img.shields.io/badge/-@navneetdesai44-191002?style=flat&logo=leetcode&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/9947357/navneet-desai"><img src="https://img.shields.io/badge/-@navneetdesai44-white?style=flat&logo=stackoverflow&logoColor=orange"/></a>
 <a href="https://www.duolingo.com/profile/NavneetDes2"><img src="https://img.shields.io/badge/-Navneet Desai-black?style=flat&logo=duolingo&logoColor=green"/></a>
 </p>
