@@ -25,6 +25,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000120?style=flat&logo=docker)&nbsp;
 ![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry%20pi)\
 ![HTML5](https://img.shields.io/badge/-HTML5-239120?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-239120?style=flat&logo=css3)&nbsp;
