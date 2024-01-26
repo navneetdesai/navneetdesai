@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Navneet Desai 🧔🏻‍♂️ 
 
-I have enjoyed software development since I first wrote a C++ program that balanced brackets in an expression. Since then I have come a long way building projects across various programming languages and exploring interesting technologies. I'm currently looking for roles in backend development, machine learning, or full-stack.  
-
-If you believe my skills align with open roles in your organization, feel free to reach out to me at <a href="mailto:navneetdesai44@gmail.com">navneetdesai44@gmail.com</a>
+I fell in love with coding when I tackled my first C++ program — balancing brackets in an expression. Since then, I've explored various languages and cool tech. I'm looking for backend development, machine learning, or full-stack roles. If you believe my skills align with open roles in your organization, feel free to reach out to me at <a href="mailto:navneetdesai44@gmail.com">navneetdesai44@gmail.com</a>
 
 ### &nbsp;📈 GitHub Analytics
 
